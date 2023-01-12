@@ -4,6 +4,6 @@
 	overflow:hidden;
 }
 
-ul li a{
-	width: 100px;
+ul li a>img{
+	width: 100%;
 }
