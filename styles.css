@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+*{
+	overflow:hidden;
+}
+
+ul li a{
+	width: 100px;
+}
